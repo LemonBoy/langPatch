@@ -1,0 +1,29 @@
+Language patcher 0.1 - 2009
+The Lemon Man (C)
+
+This is a simple plugin wich fake the system language so you can
+keep your xmb in english for not mess up themes and play in your
+own language.
+
+To install it just copy the langPatch.prx in the seplugins folder
+and activate it in the game section, then create a file called 
+language.bin and using an hex editor put the code of the language
+you want.
+
+0 - Japanese
+1 - English
+2 - French
+3 - Spanish
+4 - German
+5 - Italian
+6 - Dutch
+7 - Portuguese
+8 - Russian
+9 - Korean
+10 - Chinese (trad)
+11 - Chinese (simp)
+
+Another quality release from Italy :D
+
+Note : To compile the plugin you need the M33 sdk, the lastest is
+       included with the fw 4.01m33
